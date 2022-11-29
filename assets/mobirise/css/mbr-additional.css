@@ -917,7 +917,7 @@ a {
     align-items: center;
   }
   .cid-slYwMwJqd6 .navbar:not(.navbar-short) .navbar-collapse {
-    max-height: calc(100vh - 8rem);
+    max-height: calc(100vh - 5.8rem - 4.5rem);
   }
   .cid-slYwMwJqd6 .navbar.navbar-toggleable-sm .navbar-collapse .navbar-nav .nav-item {
     -webkit-align-self: initial;
@@ -2245,7 +2245,7 @@ a {
     align-items: center;
   }
   .cid-toaQwThrOS .navbar:not(.navbar-short) .navbar-collapse {
-    max-height: calc(100vh - 8rem);
+    max-height: calc(100vh - 5.8rem - 4.5rem);
   }
   .cid-toaQwThrOS .navbar.navbar-toggleable-sm .navbar-collapse .navbar-nav .nav-item {
     -webkit-align-self: initial;
